@@ -8,7 +8,9 @@
 
 - 🤺 I’m a student at **FCIS Tanta University**  .
 
-- 💻I’m in  **Computer Science** department
+- 💻I’m in  **Computer Science** department.
+
+- 🎨 **Frontend Developer**.
 
 - ☠️ I’m currently learning **Java Spring**.
 
