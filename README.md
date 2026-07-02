@@ -6,9 +6,9 @@
 
 ## 🙋‍♀️ About Me:
 
-- 🤺 I’m a student at **FCIS Tanta University**  .
+- 🤺 I’m a graduate from **FCIS Tanta University**  .
 
-- 💻I’m in  **Computer Science** department.
+- 💻 **Computer Science** department.
 
 - 🎨 **Frontend Developer**.
   
