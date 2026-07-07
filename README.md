@@ -16,13 +16,6 @@ I am a Software Engineer specializing in building scalable web applications with
 
 ---
 
-## 🚀 Featured Projects
-
-- ⚽ **TACTIX AI**: Developed an AI-Powered Football Intelligence Platform designed for modern football analysis. 
-- ✍️ **Reo**: Built an SEO-optimized storytelling platform that successfully served over 1,000 monthly users.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **Frontend Development**
